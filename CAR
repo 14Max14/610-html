@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>!!Car Rental!!</title>
+        <link rel="shortcut icon" href="img/bee-icon.png" type="image/x-icon">
+    </head>
+    <body>
+        <header>
+            <nav class="top-nav">
+                <a class="logo" href="index.html">
+                    <img src="img/logotype.svg" alt="Logotype">
+                </a>
+                <div class="menu">
+                    <a href="#about">About Us</a>
+                    <a href="#honey-types">Cars of the month</a>
+                    <a href="#store">Pricing</a>
+                    <a href="#testimonials">Testimonials</a>
+                    <a href="#contacts">Contact Us</a>
+                    <a href="#store" class="button outline-button">Comfortable driving in NYC</a>
+                </div>
+            </nav>
+            <div class="banner">
+                <p>CAR RENTAL</p>
+                <button name="LEARN MORE" value="LEARN MORE">
+<img style="vertical-align: middle; width: 24px; alt="" />
+LEARN MORE
+</button>
+<p>PRICING
+<form method="LINK" action="https://1skny.weblium.site/">
+    <input type="submit" value="PRICING!">
+</form>
+                <h1>ABOUT US</h1>
+                <p>We do everything for you to drive with maximum comfort!
+
+Our company has been operating on the US car rental market for over 10 years. You can rent a car for any purpose, from a business trip to conquering roads with difficult surfaces. 
+
+ We have several pick-up locations in New York so that you can take and leave the rented car in any convenient place. FASTCAR offers the most favorable conditions for car rental.
+!</p>
+<button name="CONTACT US" value="CONTACT US">
+<img style="vertical-align: middle; width: 24px; alt="" />
+CONTACT US
+</button>
+            </div>
+        </header>
+        <main>
+            <section>
+                <h2>services</h2>
+                <p class="subtitle">what we do</p>
+                <div class="bar"></div>
+                <p>Our family-owned company is engaged with everything related to honey and its production. Learn more below about our services.</p>
+                <div class="carousel">
+                    <div class="slide">
+                        <img src="img/cell.svg" alt="Cell">
+                        <h4>Honey Production</h4>
+                        <p>We produce, bottle, and sell honey harvested by our beekeepers.</p>
+                        <a href="contact-us.html">Learn more</a>
+                    </div>
+                    <div class="slide">
+                        <img src="img/cell.svg" alt="Cell">
+                        <h4>Honey Production</h4>
+                        <p>We produce, bottle, and sell honey harvested by our beekeepers.</p>
+                        <a href="#about">Learn more</a>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
